@@ -14,7 +14,7 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: anushkagupta352@gmail.com
+- 📧 Email: anushkakumarigupta352@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/anushka-gupta0504
 - 🧑‍💻 GitHub: github.com/anushka-gupta05
 
